@@ -21,8 +21,6 @@ import pydot
 import matplotlib.pyplot as plt
 # %matplotlib inline
 
-#error: @rpath/libtiff.5.dylib not loaded
-
 
 print(f"python version = {sys.version}")
 print(f"numpy version = {np.__version__}")
